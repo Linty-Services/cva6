@@ -1,0 +1,1 @@
+verific -f -sv ./core/Flist.cva6
